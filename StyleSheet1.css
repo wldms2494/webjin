@@ -1,0 +1,25 @@
+﻿body
+h1 {
+    text-align: center;
+    margin-top: 230px;
+    font-size: 90px;
+    font-family: Roboto,HelveticaNeue,Arial,NanumGothic,'Nanum Gothic',sans-serif;
+}
+h1 span:nth-child(1) {
+    color: #4285f4
+}
+h1 span:nth-child(2) {
+    color: #ea4335
+}
+h1 span:nth-child(3) {
+    color: #fbbc05
+}
+h1 span:nth-child(4) {
+    color: #34a853
+}
+h1 span:nth-child(5) {
+    color: #ea4335
+}
+.serch-bar {
+    width :500px;
+}
